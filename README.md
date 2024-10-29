@@ -1,8 +1,9 @@
 # **`Advanced Rate Limiter with Node.js and Redis`**
 
-## Descrição
-
-Este repositório contém um projeto de **Rate Limiter Avançado** desenvolvido em **Node.js** com integração ao **Redis** para armazenamento de dados de limite e alta escalabilidade. O objetivo é implementar uma solução robusta para o controle de requisições, suportando múltiplas estratégias de limitação de acesso e adaptável a diferentes níveis de tráfego, endpoints e configurações.
+> [!CAUTION]
+> **`Classificação de dificuldade do desafio`**: **Alta**
+> 
+Resolução do desafio de implementar um **Rate Limiter Avançado**. Deve ser desenvolvido em **Node.js** com integração ao **Redis** para armazenamento de dados de limite e alta escalabilidade. O objetivo é implementar uma solução robusta para o controle de requisições, suportando múltiplas estratégias de limitação de acesso e adaptável a diferentes níveis de tráfego, endpoints e configurações.
 
 ## Funcionalidades
 
